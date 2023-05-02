@@ -1,4 +1,4 @@
-# For ML Class </br>
+# For Machine Learning Class </br>
 
 ## Introduction to Machine Learning
 Logistics </br></br>
