@@ -3,7 +3,7 @@ import numpy as np
 x = np.array([1, 2, 3])
 Y = np.array([1, 2, 3])
 
-def cost_funciont(W, X, Y):
+def cost_function(W, X, Y):
     c = 0
     for i in range(len(X)):
         c += (W * X[i] - Y[i]) ** 2
