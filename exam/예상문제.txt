@@ -1,0 +1,35 @@
+이 수업의 핵심 내용을 기반으로 머신러닝에 대한 몇 가지 시험 문제를 만들어 보겠습니다.
+
+Unsupervised Learning:
+
+K-means 알고리즘의 기본 원리를 설명하시오.
+K-means 알고리즘의 장점과 단점에 대해 설명하시오.
+클러스터의 수를 결정하는 방법에 대해 설명하시오.
+Optimization:
+
+Convex와 non-convex 문제의 차이점을 설명하시오.
+Ridge Regression(L2-regularization)과 Lasso Regression(L1-regularization)의 차이점을 설명하시오.
+First-order와 Second-order 최적화 알고리즘의 차이점을 설명하시오.
+Neural Networks and Deep Learning:
+
+Perceptron과 Multi-layer Perceptron의 차이점을 설명하시오.
+Backpropagation 알고리즘을 사용하는 이유와 그 원리를 설명하시오.
+다양한 활성화 함수(activation function)의 역할과 특징에 대해 설명하시오.
+Model Selection and Performance Assessment:
+
+Cross-validation이란 무엇이며, 왜 사용하는가?
+모델 성능을 평가하는 방법으로 accuracy와 loss 외에 어떤 지표를 사용할 수 있는가?
+Machine Learning Use-cases:
+
+Inverse 문제와 Large-scale 문제에 대해 간략히 설명하시오.
+실생활에서 머신러닝이 어떻게 적용될 수 있는지 예를 들어 설명하시오.
+Deep Learning:
+
+Softmax 함수의 역할과 특징에 대해 설명하시오.
+Convolutional Neural Network(CNN)의 작동 원리와 이를 사용하는 이유에 대해 설명하시오.
+Recurrent Neural Network(RNN)와 Long Short-Term Memory(LSTM)의 차이점을 설명하시오.
+Advanced Training Strategies 중 하나를 선택하고 그것에 대해 설명하시오.
+Ensemble Learning:
+
+Bagging, Boosting, Stacking의 차이점을 설명하시오.
+Ensemble learning의 장점과 단점을 설명하시오.
